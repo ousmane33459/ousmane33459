@@ -1,6 +1,6 @@
 <h1 align="center">👋 Bonjour, je suis Ousmane SANE</h1>
 
-<h3 align="center">Étudiant en Informatique Réseaux & Télécommunications</h3>
+<h3 align="center">Étudiant en Informatique Réseaux 
 
 <p align="center">
 Passionné par les réseaux informatiques, Linux, la cybersécurité et le développement logiciel.
