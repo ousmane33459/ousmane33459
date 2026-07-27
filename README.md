@@ -10,7 +10,7 @@ Passionné par les réseaux informatiques, Linux, la cybersécurité et le déve
 
 ## 🚀 À propos de moi
 
-🎓 Étudiant en Informatique Réseaux et Télécommunications
+🎓 Étudiant en Informatique Réseaux
 
 🔭 Actuellement en formation sur :
 - Cisco Networking
